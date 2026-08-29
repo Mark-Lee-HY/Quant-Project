@@ -12,6 +12,8 @@ Optimisation:
 
 A grid search was conducted over various variables such as LOOKBACK_HOURS (e.g., 168, 336, 720, 2160) and SKIP_HOURS (e.g., 0, 6, 12, 24) to identify the optimal parameters for the lookback signal. The resulting Sharpe ratios for each combination were plotted on a heatmap to visualise the most effective configurations. The final portfolio signal were created by the heatmap estimates. Figure 1 is a demonstration of an optimisation heatmap for the Cross-sectional Risk-adjusted Momentum Strategy as an example.
 
+![image alt](https://github.com/markleehy2803-sketch/Quant-Project/blob/09e42400e12c38fa96772c1d3bcb57e496bec28e/gridsearch.png)
+
 Cross-sectional Risk-adjusted Momentum Strategy:
 
 The hypothesis is that relative outperformance tends to persist over intermediate time horizons, i.e. 3-12 months.
