@@ -26,7 +26,7 @@ The strategy resulted in an in-sample gross Sharpe Ratio of 1.04 and 0.60 net Sh
 
 ![image alt](https://github.com/Mark-Lee-HY/Quant-Project/blob/bfbf71abf0431661bbd344be3202a76be4d70e34/buyandhold2.png)
 
-![image alt](
+![image alt](https://github.com/Mark-Lee-HY/Quant-Project/blob/112c58c749e687bda9c9491101398131018df17b/shortleg2.png)
 
 Out-of-Sample Results:
 
