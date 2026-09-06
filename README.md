@@ -24,14 +24,15 @@ Results:
 
 The strategy resulted in an in-sample gross Sharpe Ratio of 1.04 and 0.60 net Sharpe Ratio. The alpha t-stats of 1.36 in training and 0.22 in validation are not statistically significant. 
 
-![image alt](https://github.com/markleehy2803-sketch/Quant-Project/blob/24f2571ccd0f9563b0296c8d3819332ce7c4a288/buyandhold.png)
-
-![image alt](https://github.com/markleehy2803-sketch/Quant-Project/blob/633568bde29c35580b0bb80371894a6e4205f644/shortleg.png)
 
 
 Out-of-Sample Results:
 
 The validation gross Sharpe Ratio was 0.68 and 0.05 net Sharpe Ratio. The lower validation results appear to reflect genuine out-of-sample deterioration and the effects of transaction costs, as most of the edge is being consumed by costs.
+
+![image alt](https://github.com/markleehy2803-sketch/Quant-Project/blob/24f2571ccd0f9563b0296c8d3819332ce7c4a288/buyandhold.png)
+
+![image alt](https://github.com/markleehy2803-sketch/Quant-Project/blob/633568bde29c35580b0bb80371894a6e4205f644/shortleg.png)
 
 Key Takeaways:
 
