@@ -24,7 +24,9 @@ Results:
 
 The strategy resulted in an in-sample gross Sharpe Ratio of 1.04 and 0.60 net Sharpe Ratio. The alpha t-stat of 1.36 is not statistically significant. 
 
+![image alt](https://github.com/Mark-Lee-HY/Quant-Project/blob/bfbf71abf0431661bbd344be3202a76be4d70e34/buyandhold2.png)
 
+![image alt](
 
 Out-of-Sample Results:
 
